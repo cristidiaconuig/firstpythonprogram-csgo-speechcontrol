@@ -1,0 +1,17 @@
+ight i dunno why you would want to use this shit but you know it's your life
+
+install this shit
+
+
+pip install PyDirectInput
+pip install SpeechRecognition
+pip install PyAutoGUI
+
+and pyaudio but that's shit hard as shit for me atleast so use a yt tutorial
+
+
+then just run the shit using cmd
+
+designed for cs:go
+
+(open the .py up with an ide for the commands)
