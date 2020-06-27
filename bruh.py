@@ -77,6 +77,7 @@ while i < 9999:
 
     if "inspect" in text:
         pydirectinput.keyDown('f')
+        time.sleep(5)
         pydirectinput.keyUp('f')
 
     if "back" in text:
